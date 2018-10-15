@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Quicksand', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.logo-rivero{
+  border-radius: 50%;
+  height: 4em;
+}
+
+.card{
+  width: 18rem;
+  display: inline-flex;
+}
+
+.foto-portafolio{
+  width: 20%;
+  height: auto;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
