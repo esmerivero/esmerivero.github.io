@@ -1,0 +1,8 @@
+.demo{
+    align-items: flex-end;
+    display: flex; 
+}
+
+.card{
+    margin-top: 2em;
+}

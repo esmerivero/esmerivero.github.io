@@ -1,0 +1,32 @@
+#image{
+    background-image: url('../assets/rivero-portafolio.jpeg');
+}
+
+.cropcircle{
+    align-content: center;
+    background: #eee no-repeat center;
+    background-size: cover;
+    border-radius: 100%;
+    height: 250px;
+    width: 250px;
+}
+
+@media screen and (max-width:994px){
+    #image{
+        margin-right: 200px;
+    }
+}
+
+.content{
+    text-align: justify;
+}
+
+#acerca-de-mi{
+    text-align: center;
+}
+
+#image.cropcircle{
+    margin-top: 2em;
+    margin-left: 3em;
+    margin-bottom: .7em;
+}
