@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/static/media/burger-queen.5db013f2.JPG"
   },
   {
-    "revision": "fbaf5089af1b701624e7",
-    "url": "/static/css/main.9b5323e1.chunk.css"
+    "revision": "d039151b7baa72902c4b",
+    "url": "/static/css/main.55f99944.chunk.css"
   },
   {
     "revision": "a05713260700f1cd27b3",
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/static/media/logo-rivero.7fd7ac1c.jpg"
   },
   {
-    "revision": "fbaf5089af1b701624e7",
-    "url": "/static/js/main.fbaf5089.chunk.js"
+    "revision": "d039151b7baa72902c4b",
+    "url": "/static/js/main.d039151b.chunk.js"
   },
   {
     "revision": "94cea3d9e99b42ceadabb74aabe912e6",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/static/media/rivero-portafolio.e2baaaf0.jpeg"
   },
   {
-    "revision": "022fb9b93affb95d9977bfe0110a4f81",
+    "revision": "c45eba248c8963462d73375e1f0dd64c",
     "url": "/index.html"
   }
 ];
