@@ -10,7 +10,7 @@ export default class AcercaDeMi extends Component {
                 </section>
                 <section className="col-xs-12 col-sm-12 col-md-6 col-lg-6">
                 <div className="content">
-                    <h2 id="acerca-de-mi">Acerca de mi</h2>
+                    <h2 id="acerca-de-mi" className="tracking-in-contract">Acerca de mi</h2>
                     <h4>¡Hola! Soy Esmeralda Rivero, coder Front-End</h4>
                     <p>
                         Disfruto mucho de las buenas conexiones de internet, videojuegos,
