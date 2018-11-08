@@ -12,7 +12,7 @@ export default class Proyectos extends Component{
                 <h1 className="title tracking-in-contract"><b>Proyectos</b></h1>
                 <section className="row">
 
-                    <article className="card">
+                    <article className="card col-xs-8 offset-xs-2 col-sm-8 offset-sm-2 col-md-4 offset-1 col-lg-3 offset-lg-1">
                         <div className="card-body row">
                             <img className="col-12 card-img-top" src={BurgerQueen} alt="Pantalla principal del proyecto burger queen"/>
                             <h5 className="card-title">Burger Queen</h5>
@@ -26,7 +26,7 @@ export default class Proyectos extends Component{
                         </div>
                     </article>
 
-                    <article className="card">
+                    <article className="card col-xs-8 offset-xs-2 col-sm-8 offset-sm-2 col-md-4 offset-1 col-lg-3 offset-lg-1">
                         <div className="card-body row">
                         <img className="card-img-top" src={Datadashboard} alt="Pantalla principal del proyecto datadashboard"/>
                             <h5 className="card-title">Datadashboard</h5>
@@ -40,7 +40,7 @@ export default class Proyectos extends Component{
                         </div>
                     </article>
 
-                    <article className="card">
+                    <article className="card col-xs-8 offset-xs-2 col-sm-8 offset-sm-2 col-md-4 offset-1 col-lg-3 offset-lg-1">
                         <div className="card-body row">
                         <img className="card-img-top" src={Labcar} alt="pantalla principal del proyecto Labcar"/>
                             <h5 className="card-title">Labcar</h5>
@@ -56,7 +56,7 @@ export default class Proyectos extends Component{
                     </article>
                     
 
-                    <article className="card">
+                    <article className="card col-xs-8 offset-xs-2 col-sm-8 offset-sm-2 col-md-4 offset-1 col-lg-3 offset-lg-1">
                         <div className="card-body row">
                         <img className="card-img-top" src={MovieApi} alt="Pantalla principal del prpyecto Movie Api"/>
                             <h5 className="card-title">3, 2, 1 ¡Acción!</h5>

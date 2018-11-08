@@ -17,6 +17,12 @@
   width: 240px;
 }
 
+@media only screen and (max-width: 768px) {
+  .card{
+    margin-left: 4em;
+  }
+}
+
 .card-body{
   align-items: center;
   display: flex;
