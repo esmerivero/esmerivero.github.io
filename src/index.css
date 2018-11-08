@@ -1,9 +1,9 @@
 body {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-family: 'Quicksand', sans-serif;
   margin: 0;
   padding: 0;
-  font-family: 'Quicksand', sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
 }
 
 .logo-rivero{
@@ -12,17 +12,16 @@ body {
 }
 
 .card{
-  width: 18rem;
   display: inline-flex;
+  width: 18rem;
 }
 
 .foto-portafolio{
-  width: 20%;
   height: auto;
+  width: 20%;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
+  monospace;
 }
-
