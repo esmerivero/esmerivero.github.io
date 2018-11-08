@@ -1,7 +1,7 @@
 {
-  "main.css": "/static/css/main.fd8e08b1.chunk.css",
-  "main.js": "/static/js/main.45e69fa2.chunk.js",
-  "main.js.map": "/static/js/main.45e69fa2.chunk.js.map",
+  "main.css": "/static/css/main.72d8a6a7.chunk.css",
+  "main.js": "/static/js/main.d6f58ab3.chunk.js",
+  "main.js.map": "/static/js/main.d6f58ab3.chunk.js.map",
   "static/js/1.a0571326.chunk.js": "/static/js/1.a0571326.chunk.js",
   "static/js/1.a0571326.chunk.js.map": "/static/js/1.a0571326.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
@@ -12,8 +12,8 @@
   "static/media/movie-api.JPG": "/static/media/movie-api.62bc6047.JPG",
   "static/media/AcercaDeMi.css": "/static/media/rivero-portafolio.e2baaaf0.jpeg",
   "static/media/burger-queen.JPG": "/static/media/burger-queen.5db013f2.JPG",
-  "static/css/main.fd8e08b1.chunk.css.map": "/static/css/main.fd8e08b1.chunk.css.map",
+  "static/css/main.72d8a6a7.chunk.css.map": "/static/css/main.72d8a6a7.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.2d236ba21fccdb7f5e654cd8f2dc1c43.js": "/precache-manifest.2d236ba21fccdb7f5e654cd8f2dc1c43.js",
+  "precache-manifest.3906af066516d13258a3b98ec8a3579a.js": "/precache-manifest.3906af066516d13258a3b98ec8a3579a.js",
   "service-worker.js": "/service-worker.js"
 }
