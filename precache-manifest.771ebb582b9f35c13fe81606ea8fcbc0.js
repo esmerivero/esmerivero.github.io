@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/static/media/burger-queen.5db013f2.JPG"
   },
   {
-    "revision": "603de532381c0f3895c1",
-    "url": "/static/css/main.e660bc48.chunk.css"
+    "revision": "610cc62c7ae5f7a4a078",
+    "url": "/static/css/main.77552b1f.chunk.css"
   },
   {
-    "revision": "a05713260700f1cd27b3",
-    "url": "/static/js/1.a0571326.chunk.js"
+    "revision": "5e82af0b60d3ae2a2271",
+    "url": "/static/js/1.5e82af0b.chunk.js"
   },
   {
     "revision": "229c360febb4351a89df",
@@ -20,8 +20,12 @@ self.__precacheManifest = [
     "url": "/static/media/logo-rivero.7fd7ac1c.jpg"
   },
   {
-    "revision": "603de532381c0f3895c1",
-    "url": "/static/js/main.603de532.chunk.js"
+    "revision": "c01560cb1d35a34ba7b20dc1209d9dfd",
+    "url": "/static/media/Esmeralda-Rivero.c01560cb.pdf"
+  },
+  {
+    "revision": "610cc62c7ae5f7a4a078",
+    "url": "/static/js/main.610cc62c.chunk.js"
   },
   {
     "revision": "94cea3d9e99b42ceadabb74aabe912e6",
@@ -40,7 +44,7 @@ self.__precacheManifest = [
     "url": "/static/media/rivero-portafolio.e2baaaf0.jpeg"
   },
   {
-    "revision": "3d19f23021f651f43feb4d8de1ef2fb5",
+    "revision": "5103af21fbeeb006160b6e910cbb9934",
     "url": "/index.html"
   }
 ];
