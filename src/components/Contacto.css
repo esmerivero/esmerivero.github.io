@@ -1,0 +1,14 @@
+.container-contact{
+    background-color: black;
+}
+
+.color-link{
+    align-items: center;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.title-contact{
+    margin-top: 3em;
+}
