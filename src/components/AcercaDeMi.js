@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import './AcercaDeMi.css'
+import Curriculum from './Curriculum';
 
 export default class AcercaDeMi extends Component {
     render() {
@@ -16,6 +17,7 @@ export default class AcercaDeMi extends Component {
                         música, conciertos y de la programación.
                         Mis herramientas favoritas tecnológicas (hasta ahora) son React y Bootstrap.
                     </p>
+                    <Curriculum />
                 </section>
             </section>
         );
