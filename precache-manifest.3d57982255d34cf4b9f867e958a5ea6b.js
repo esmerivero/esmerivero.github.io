@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/burger-queen.5db013f2.JPG"
   },
   {
-    "revision": "610cc62c7ae5f7a4a078",
+    "revision": "f90724188f97268e00f2",
     "url": "/static/css/main.77552b1f.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/static/media/Esmeralda-Rivero.c01560cb.pdf"
   },
   {
-    "revision": "610cc62c7ae5f7a4a078",
-    "url": "/static/js/main.610cc62c.chunk.js"
+    "revision": "f90724188f97268e00f2",
+    "url": "/static/js/main.f9072418.chunk.js"
   },
   {
     "revision": "94cea3d9e99b42ceadabb74aabe912e6",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/static/media/rivero-portafolio.e2baaaf0.jpeg"
   },
   {
-    "revision": "5103af21fbeeb006160b6e910cbb9934",
+    "revision": "88e91b16bfeef5606b2012c4a0904382",
     "url": "/index.html"
   }
 ];
