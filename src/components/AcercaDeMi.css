@@ -7,6 +7,10 @@
     width: 250px;
 }
 
+.text-about-me{
+  text-align: justify;
+}
+
 #image.cropcircle{
     background-image: url('../assets/rivero-portafolio.jpeg');
 }
